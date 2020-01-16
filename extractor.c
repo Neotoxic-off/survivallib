@@ -18,7 +18,7 @@ char *extractor(char *string, int place)
         }
         for (int index = 0; space == place; i++, index++) {
             output[index] = string[i];
-            if (string[i] == ' ' || string[i] == '\0')
+            if (string[i + 1] == ' ' || string[i + 1] == '\0')
                 space++;
         }
     }

@@ -1,5 +1,5 @@
 
-<img src="https://library.kissclipart.com/20181003/srw/kissclipart-emergency-kit-png-clipart-first-aid-kits-clip-art-b34012d498b73fb9.png" width="256" height="256" />
+<img src="https://cdn0.iconfinder.com/data/icons/survival-camp-icon/595/Survival_Outline-18-512.png" width="256" height="256" />
 
 
 # survivallib

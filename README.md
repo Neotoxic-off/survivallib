@@ -1,5 +1,5 @@
 
-<img src="https://banner2.cleanpng.com/20180209/jgw/kisspng-first-aid-kit-health-care-disease-hospital-creative-toilet-paper-band-aid-5a7e7275ebba36.4069764315182362779656.jpg" width="225" height="165" />
+<img src="https://library.kissclipart.com/20181003/srw/kissclipart-emergency-kit-png-clipart-first-aid-kits-clip-art-b34012d498b73fb9.png" width="256" height="256" />
 
 
 # survivallib

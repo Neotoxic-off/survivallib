@@ -5,10 +5,15 @@
 # survivallib
 My most usefull tools for C
 
-### my_malloc.C
+### my_malloc.c
 Allocate the space that you need and init all the character by '\0'
 to prevent missing '\0' at the end of the string
 
-### my_extractor.C
-### my_string_to_array
+### my_extractor.c
+Extract the content of the str with a specific delimiter
+
+### my_string_to_array.c
+Transform a char * to char **
+
 ### my_count_character.c
+Count into a string all the character asked

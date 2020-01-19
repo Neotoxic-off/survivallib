@@ -4,3 +4,11 @@
 
 # survivallib
 My most usefull tools for C
+
+### my_malloc.C
+Allocate the space that you need and init all the character by '\0'
+to prevent missing '\0' at the end of the string
+
+### my_extractor.C
+### my_string_to_array
+### my_count_character.c

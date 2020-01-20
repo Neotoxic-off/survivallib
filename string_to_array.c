@@ -1,10 +1,13 @@
 void string_to_array(char ***array, char *string, char separator)
 {
-    *array = malloc(sizeof(char *) * count_character(string, separator) + 1);
+    int i = 0;
+    int characters = count_character(string, separator);
+    *array = malloc(sizeof(char *) * (characters + 2));
 
-    for (int i = 0; i <= count_character(string, separator); i++) {
+    for (; i <= characters; i++) {
         (*array)[i] = my_malloc(sizeof(char) *
-        (my_strlen(extractor(string, i, separator)) + 1));
+        (strlen(extractor(string, i, separator)) + 1));
         (*array)[i] = extractor(string, (i + 1), separator);
     }
+    (*array)[characters + 1] = NULL;
 }
